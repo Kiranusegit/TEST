@@ -14,6 +14,7 @@
   <packaging>pom</packaging>
   <name>TEST Testservice-${project.version} (0.1,Services) Kar</name>
   <modules>
+    <module>../../process/Testservice/TestservicePortType/TestserviceOperation/testserviceporttype_testserviceoperation_0.1</module>
     <module>pom-control-bundle.xml</module>
     <module>pom-feature.xml</module>
   </modules>
